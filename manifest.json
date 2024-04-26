@@ -1,11 +1,11 @@
 {
-    "name": "my_portfilo_website",
-    "short_name": "my_portfilo_website",
+    "name": "Mussie - Flutter Developer Portfolio",
+    "short_name": "Mussie - Flutter Developer Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mussie - Flutter Developer seeking new challenges. Discover my work and let's collaborate!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
